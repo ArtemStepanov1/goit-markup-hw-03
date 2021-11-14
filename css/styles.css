@@ -379,7 +379,6 @@ body {
 
 .projects {
     display: flex;
-    padding-bottom: 94px;
     flex-wrap: wrap;
     margin: -15px;
     
